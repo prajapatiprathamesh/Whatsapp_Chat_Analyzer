@@ -55,7 +55,8 @@ The project is built using the following technologies:
 
 ## Screenshots
 ### Home Page
-![Home Page]("C:\Users\Akanksha\Anaconda\Project\Whatsapp_Chat_Analyzer\Home.png")
+![Home](https://github.com/user-attachments/assets/7a9d546d-e72b-4e69-b965-95c27bc6f5ef)
+
 ---
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please:
