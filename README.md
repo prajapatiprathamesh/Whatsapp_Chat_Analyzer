@@ -1,7 +1,7 @@
 # WhatsApp Chat Analyzer
 
 ## Overview
-The **WhatsApp Chat Analyzer** is an interactive web app that allows users to analyze their exported WhatsApp chat data. This tool is hosted online and accessible at [WhatsApp Chat Analyzer](https://whatsappchatanalyzer-prathamesh.streamlit.app/).
+The **WhatsApp Chat Analyzer** is an interactive web app that allows users to analyze their exported WhatsApp chat data. This tool is hosted online and accessible at https://whatsappchatanalyzer-prathamesh.streamlit.app/.
 
 With just a few clicks, you can gain meaningful insights into your chat history, including:
 - Participant statistics
